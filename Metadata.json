@@ -1,0 +1,20 @@
+{
+    "Author": "AvihaiH",
+    "ContentSize": 2882,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-azure-vm-from-image-with-join-ad/master/DeployVMImageWithJoinAD.ps1",
+    "DownloadCount": 878,
+    "Id": "Deploy-Azure-VM-from-Image-807d91dc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 154,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-9-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Deploy Azure VM from your own Golden Image.This script will help you to deploy Azure VM from your own image and join to your domain.",
+    "Title": "Deploy Azure VM from Image with Join AD",
+    "UpdatedDate": "2017-9-2T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-azure-vm-from-image-with-join-ad",
+    "UserTags": "Microsoft Azure, Powershell, Windows Azure Virtual Machines"
+}
